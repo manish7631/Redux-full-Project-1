@@ -1,0 +1,97 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "author": "json-server",
+        "no_of_chapters":6,
+        "cover_photo":"",
+        "book_name":"Full Stack Web",
+        "category":"Novel",
+        "release_year":2019,
+        "chapters":[
+          {"name":"html", "pages":24}
+        ]
+
+      } ,
+      {
+        "id": 2,
+        "author": "json-server",
+        "no_of_chapters":6,
+        "cover_photo":"",
+        "book_name":"Full Stack Web",
+        "category":"Novel",
+        "release_year":2049,
+        "chapters":[
+          {"name":"html", "pages":24}
+        ]
+
+      } ,
+      {
+        "id": 3,
+        "author": "json-server",
+        "no_of_chapters":6,
+        "cover_photo":"",
+        "book_name":"Full Stack Web",
+        "category":"Thirller",
+        "release_year":2009,
+        "chapters":[
+          {"name":"html", "pages":24}
+        ]
+
+      } ,
+      {
+        "id": 4,
+        "author": "json-server",
+        "no_of_chapters":6,
+        "cover_photo":"",
+        "book_name":"Full Stack Web",
+        "category":"Science",
+        "release_year":2011,
+        "chapters":[
+          {"name":"html", "pages":24}
+        ]
+
+      } ,
+      {
+        "id": 5,
+        "author": "json-server",
+        "no_of_chapters":6,
+        "cover_photo":"",
+        "book_name":"Full Stack Web",
+        "category":"Novel",
+        "release_year":2017,
+        "chapters":[
+          {"name":"html", "pages":24}
+        ]
+
+      } 
+      ,
+      {
+        "id": 6,
+        "author": "json-server",
+        "no_of_chapters":6,
+        "cover_photo":"",
+        "book_name":"Full Stack Web",
+        "category":"Thirller",
+        "release_year":2013,
+        "chapters":[
+          {"name":"html", "pages":24}
+        ]
+
+      } 
+      ,
+      {
+        "id": 7,
+        "author": "json-server",
+        "no_of_chapters":6,
+        "cover_photo":"",
+        "book_name":"Full Stack Web",
+        "category":"Thirller",
+        "release_year":2013,
+        "chapters":[
+          {"name":"html", "pages":24}
+        ]
+
+      } 
+    ]
+  }
